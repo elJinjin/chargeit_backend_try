@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3091897365",
+    "project_id": "backend-chargeit-test",
+    "storage_bucket": "backend-chargeit-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3091897365:android:531386e35f130b7bdf821c",
+        "android_client_info": {
+          "package_name": "com.backend.chargit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5RFYPNSJAb76n06Yn9fKBcZCv0m8wTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
