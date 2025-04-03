@@ -1,3 +1,4 @@
+import 'package:chargit/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 import './screens/signup_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SignupScreen(),
+      home: LoginScreen(),
     );
   }
 }
